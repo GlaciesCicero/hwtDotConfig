@@ -3,8 +3,8 @@
 !*.zsh
 !*.vim
 !Makefile
-!ipa
-!ipa/**
+!zsh
+!zsh/**
 !ranger
 !ranger/**
 !lvim
