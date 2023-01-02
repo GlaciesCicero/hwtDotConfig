@@ -1,12 +1,11 @@
 *
 !.gitignore
-!.drone.yml
-!*.md
-!*.txt
+!*.zsh
+!*.vim
 !Makefile
 !ipa
 !ipa/**
-!pms
-!pms/**
+!ranger
+!ranger/**
 !lvim
 !lvim/**
