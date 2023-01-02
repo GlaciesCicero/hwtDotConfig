@@ -1,0 +1,12 @@
+*
+!.gitignore
+!.drone.yml
+!*.md
+!*.txt
+!Makefile
+!ipa
+!ipa/**
+!pms
+!pms/**
+!lvim
+!lvim/**
