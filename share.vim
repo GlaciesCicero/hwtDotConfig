@@ -79,6 +79,8 @@ noremap s <nop>
 " map S :w<CR>
 noremap <LEADER>w :w<CR>
 noremap <LEADER>q :q<CR>
+noremap E $
+noremap B 0
 
 map <LEADER>RN :set relativenumber<CR>
 map <LEADER>RRN :set norelativenumber<CR>
